@@ -1,0 +1,11 @@
+
+Isto e um teste get_next_line
+com um espaço acima,
+com simbolos \n 
+e simbolo \0
+
+
+
+3 linhas espaco acima
+
+e sem memory leaks. Esperemos!
