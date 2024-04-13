@@ -1,6 +1,0 @@
-Isto e um teste do gnl
-
-com um \n acima
-e o simbolo \0
-
-e sem memory leaks. Esperemos!
